@@ -1,3 +1,3 @@
-local Whitelist = {
+WHITELIST = {
 	"f4bd67e6dd1eaf4f73f67a6130550648e0d5b1643e88e1bcd7c4c6a66db445b900c18a8670a28c727ad5488cdfa9702a"
 }
